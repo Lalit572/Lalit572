@@ -5,6 +5,7 @@
 - 📫 How to reach me anujchaudhari89@gmail.com
 -  I have good problem solving and communcication skills.
 -  Love to solve DSA problems. 
+-  My GeeksforGeeks profile link:- https://auth.geeksforgeeks.org/user/anujchaudhari89 
 
 <!---
 Lalit572/Lalit572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
